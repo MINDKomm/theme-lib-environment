@@ -1,0 +1,21 @@
+{
+    "name": "mindkomm/theme-lib-environment",
+    "type": "library",
+    "description": "Environment helper functions for WordPress themes",
+    "license": "MIT",
+    "require": {
+      "php": ">=7.0.0"
+    },
+    "autoload": {
+      "files": [
+        "autoload.php"
+      ]
+    },
+    "authors": [
+        {
+            "name": "Lukas Gaechter",
+            "email": "lukas.gaechter@mind.ch",
+            "homepage": "https://www.mind.ch"
+        }
+    ]
+}
